@@ -1,0 +1,10 @@
+data/
+.vscode/
+
+train/
+val/
+*.pyc
+*.json
+
+*.txt
+!train_val_uris.txt

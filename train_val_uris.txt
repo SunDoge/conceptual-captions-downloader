@@ -1,0 +1,2 @@
+https://github.com/SunDoge/DownloadConceptualCaptions/releases/download/v0.1.0/Validation_GCC-1.1.0-Validation.tsv
+https://github.com/SunDoge/DownloadConceptualCaptions/releases/download/v0.1.0/Train_GCC-training.tsv
